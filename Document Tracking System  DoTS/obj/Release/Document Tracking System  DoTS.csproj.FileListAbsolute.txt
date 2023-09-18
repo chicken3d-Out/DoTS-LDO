@@ -1,0 +1,77 @@
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Document Tracking System  DoTS.exe.config
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Document Tracking System  DoTS.exe
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Document Tracking System  DoTS.pdb
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Imaging.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Math.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Video.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\FontAwesome.Sharp.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Google.Protobuf.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\itextsharp.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\MaterialSkin.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\MySql.Data.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Buffers.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Memory.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\zxing.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\zxing.presentation.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Imaging.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Math.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Video.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Google.Protobuf.pdb
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Google.Protobuf.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\itextsharp.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\MySql.Data.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Buffers.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Memory.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\zxing.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\zxing.presentation.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.About.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.AddDocument.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.AddUnit.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.AngencyAddEdit.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Dashboard.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.DashboardCharts.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.DashboardChartsInfo.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.DocOwner.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.DocumentInfo.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Documents.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.DocumentTrackingQR_PDF.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Login.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Logs.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.OthersAddEdit.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Properties.Resources.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.ScanQR.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.DocOwnerAddEdit.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Tracking.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Units.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.UpdateUnits.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.UserAddEdit.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document_Tracking_System__DoTS.Users.resources
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document Tracking System  DoTS.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document Tracking System  DoTS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document Tracking System  DoTS.csproj.CopyComplete
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document Tracking System  DoTS.exe
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document Tracking System  DoTS.pdb
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\EPPlus.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\EPPlus.Interfaces.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\EPPlus.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\HP\source\repos\Document Tracking System  DoTS\Document Tracking System  DoTS\obj\Release\Document Tracking System  DoTS.csproj.AssemblyReference.cache

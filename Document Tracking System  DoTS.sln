@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document Tracking System  DoTS", "Document Tracking System  DoTS\Document Tracking System  DoTS.csproj", "{A3BFCC65-D669-401B-A986-316FAF9D8D57}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LeyteDivisionDoTS-Setup", "LeyteDivisionDoTS-Setup\LeyteDivisionDoTS-Setup.vdproj", "{4F9F21A0-A8A0-48DA-869E-34B000F90657}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Document Tracking System DoTS-LDO Setup", "Document Tracking System DoTS-LDO Setup\Document Tracking System DoTS-LDO Setup.vdproj", "{F9ED1C35-9E7F-4364-86AA-DC8F5C4C8621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BFCC65-D669-401B-A986-316FAF9D8D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BFCC65-D669-401B-A986-316FAF9D8D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BFCC65-D669-401B-A986-316FAF9D8D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BFCC65-D669-401B-A986-316FAF9D8D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9F21A0-A8A0-48DA-869E-34B000F90657}.Debug|Any CPU.ActiveCfg = Debug
+		{4F9F21A0-A8A0-48DA-869E-34B000F90657}.Release|Any CPU.ActiveCfg = Release
+		{F9ED1C35-9E7F-4364-86AA-DC8F5C4C8621}.Debug|Any CPU.ActiveCfg = Debug
+		{F9ED1C35-9E7F-4364-86AA-DC8F5C4C8621}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC920791-B106-4C58-AA64-0CD4A95AF5E9}
+	EndGlobalSection
+EndGlobal
